@@ -1,5 +1,5 @@
 
-# AI Dialogue  
+# Babel
 **Two AI agents talking to each other — in real time, out loud**  
 
 AI Dialogue is an app where you set a short system prompt for each of two AI agents, hit **Go**, and watch them **debate, role-play, or brainstorm** in real time.  
